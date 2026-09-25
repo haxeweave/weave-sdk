@@ -1,0 +1,49 @@
+This repository holds two different things, under two different sets of terms.
+Read this page before the licence text below it.
+
+1. THE PACKAGING — the scripts, the manifests, the workflows and the
+   documentation written for this repository — is licensed under the MIT
+   licence, reproduced below.
+
+2. THE BUNDLES THEMSELVES — everything inside a release archive — are
+   REDISTRIBUTIONS of the Kha SDK and its toolchain, and are NOT covered by the
+   licence below. Each component keeps the licence its authors gave it. Those
+   licences are listed, in full, in the THIRD-PARTY-NOTICES.md carried inside
+   every archive and generated from the files actually present in it.
+
+   Among them: Kha and Kore under the zlib licence, whose clause 3 says their
+   notice may not be removed or altered from a distribution; the Haxe standard
+   library under MIT; and THE HAXE COMPILER BINARY UNDER THE GNU GENERAL PUBLIC
+   LICENSE VERSION 2, which obliges anyone redistributing it to supply the
+   complete corresponding source for that exact version.
+
+   That obligation is met by section 3(a) — accompaniment, not a promise. The
+   Haxe source for the exact commit each bundle was built from is published as
+   an asset on the same release, beside the bundle itself. Nobody has to ask for
+   it and nobody has to keep an offer open.
+
+Nothing below grants any right over the redistributed software in point 2.
+
+---
+
+MIT License
+
+Copyright (c) 2026 the Weave authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
